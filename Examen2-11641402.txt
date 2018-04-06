@@ -1,0 +1,6 @@
+Examen 2
+11641402 - Karen Michelle Lopez
+Link de github: https://github.com/MichelleLopez/examen2-ux
+Links de Heroku:
+	-https://examen2-climate-frontend.herokuapp.com/
+	-https://examen2-climate-backend.herokuapp.com/climates
